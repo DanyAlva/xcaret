@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Integra\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Integra\\.nuget\\packages"
+    ]
+  }
+}
